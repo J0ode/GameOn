@@ -109,7 +109,8 @@ main {
   background-color: rgba(26, 39, 156, 0.4);
 }
 .content {
-  margin: 5% auto;
+  margin:auto;
+  margin-top:40px
   width: 100%;
   max-width: 500px;
   animation-name: modalopen;
