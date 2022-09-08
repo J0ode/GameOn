@@ -110,7 +110,7 @@ main {
 }
 .content {
   margin:auto;
-  margin-top:40px
+  margin-top:40px;
   width: 100%;
   max-width: 500px;
   animation-name: modalopen;
